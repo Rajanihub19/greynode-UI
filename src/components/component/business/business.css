@@ -1,0 +1,63 @@
+.background12{
+    background: #00DAB0;
+    width: 600px;
+
+ border-radius: 10px;
+}
+/* .business1{
+    margin-left:80px ;
+    margin-top: 80px;
+    margin-left: 80px;
+    margin-right: 80px;
+} */
+.lockey{
+    height: 70px;
+    width: 70px;
+    background: white;
+    border-radius: 100%;
+    margin-top: 20px;
+}
+.lockey2{
+    /* position: relative; */
+    margin-left: 17px;
+    margin-top:15px;
+}
+.btn24{
+    border: none;
+    height: 47px;
+    width: 121px;
+    color: #00DAB0
+}
+.arrow2{
+    margin-left: 20px;
+    margin-top:45px;
+}
+.button25{
+    border-radius: 5px;
+    border: 1px solid black;
+    padding: 5px;
+}
+.background1{
+    width: 50%;
+}
+
+@media only screen and (max-width: 786px) {
+   .background12{
+        width: 500px;
+        height: 450px;
+    }
+    /* .buttons{
+        position: relative;
+        margin-top: 10px;
+        
+    } */
+  }
+  @media only screen and (max-width: 580px) {
+    .background12{
+        width: 100%;
+         height: 500px;
+     }
+     .girlimg{
+        display: none;
+    }
+   }

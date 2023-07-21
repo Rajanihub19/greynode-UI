@@ -1,0 +1,428 @@
+.loginbox {
+  background: #f5f5f5;
+  position: relative;
+  width: 100%;
+  height: 800px;
+  display: flex;
+}
+.loginbox1 {
+  /* background: pink; */
+  width: 50%;
+  padding-top: 30px;
+  padding-left: 50px;
+}
+.login11 {
+  position: relative;
+  margin-left: 30px;
+}
+.box10 {
+  width: 40px;
+  height: 40px;
+  left: 110px;
+  top: 100px;
+  background: #001a16;
+  border-radius: 5px;
+}
+.box11 {
+  width: 64px;
+  height: 64px;
+  left: 589px;
+  background: #001a16;
+  border: 1.5px solid #00dab0;
+  border-radius: 50%;
+}
+.box9 {
+  gap: 450px;
+  display: flex;
+}
+.login11 {
+  position: relative;
+  margin-left: 50px;
+  margin-top: -55px;
+}
+.udtatir {
+  margin-left: 260px;
+  margin-top: -60px;
+}
+.rightarrow {
+  /* position: relative; */
+  color: white;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+.leftarrow {
+  color: white;
+  margin-left: 250px;
+  margin-top: -40px;
+}
+.greynode {
+  margin-left: 15px;
+  margin-top: 15px;
+}
+
+.span2 {
+  color: #00dab0;
+}
+.PARAGRAPH {
+  color: grey;
+}
+.margin10 {
+  margin-top: 150px;
+}
+.card10 {
+  width: 207px;
+  height: 136px;
+  left: 98px;
+  top: 340px;
+
+  background: rgba(255, 255, 255, 0.1);
+  border: 2px solid #00dab0;
+  box-shadow: 0px 0px 26px rgba(0, 218, 176, 0.09);
+  border-radius: 7px;
+}
+.card12 {
+  width: 207px;
+  height: 136px;
+  left: 98px;
+  top: 340px;
+
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid #cbd3e7;
+  box-shadow: 0px 0px 26px rgba(0, 218, 176, 0.09);
+  border-radius: 7px;
+}
+.circle10 {
+  width: 54px;
+  height: 54px;
+  left: 175px;
+  top: 363px;
+  margin-left: 70px;
+  margin-top: 20px;
+
+  background: #ffffff;
+  /* background: #13d664; */
+  border-radius: 50%;
+  box-shadow: 0px 6px 26px rgba(0, 218, 176, 0.22);
+}
+.img10 {
+  margin-left: 15px;
+  margin-top: 15px;
+}
+.text10 {
+  margin-left: 80px;
+  margin-top: 10px;
+  color: #00dab0;
+}
+.text11 {
+  margin-left: 65px;
+  margin-top: 10px;
+  color: #6c757d;
+}
+.button10 {
+  width: 430px;
+  height: 48px;
+  left: 98px;
+  top: 521px;
+
+  background: #00dab0;
+  border-radius: 100px;
+  border: none;
+  color: #ffffff;
+}
+.BTN10 {
+  margin-top: 50px;
+}
+.card20 {
+  margin-top: 60px;
+  display: flex;
+}
+
+.loginbox2 {
+  /* background: yellow; */
+  width: 50%;
+}
+.boxs {
+  width: 650px;
+  height: 700px;
+  /* background: plum; */
+}
+.box31 {
+  height: 180px;
+
+  background: #ffe2ad;
+  border-radius: 0px 106.5px;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.box32 {
+  height: 180px;
+
+  background: #efefef;
+  border-radius: 0px 0px 104.5px 104.5px;
+}
+.box33 {
+  height: 220px;
+
+  background: #cbd3e7;
+  border-radius: 0px 104.5px;
+}
+.box35 {
+  height: 220px;
+  background: #cbd3e7;
+  border-radius: 239.4px;
+}
+.box36 {
+  height: 180px;
+  background: #80ebe1;
+  border-radius: 0px 0px 104.5px 104.5px;
+}
+.box37 {
+  height: 180px;
+  left: 920px;
+  top: 385px;
+
+  background: #fcd3ca;
+  border-radius: 0px 106.5px;
+}
+.box38 {
+  height: 220px;
+
+  background: #efefef;
+  border-radius: 0px 0px 104.5px 104.5px;
+  transform: matrix(0, 1, -1, 0, 0, 0);
+}
+.box39 {
+  height: 220px;
+
+  background: rgba(0, 216, 195, 0.5);
+  border-radius: 104.5px;
+}
+.box40 {
+  height: 220px;
+  background: #cef4ff;
+  border-radius: 0px 104.5px;
+  transform: matrix(-1, 0, 0, 1, 0, 0);
+}
+.handsome {
+  position: relative;
+  width: 150px;
+  height: 180px;
+  left: 280px;
+  top: -500px;
+}
+.oranagegirl {
+  position: relative;
+  width: 120px;
+  height: 170px;
+  left: 60px;
+  top: -870px;
+}
+.text30 {
+  position: relative;
+  left: 240px;
+  top: -980px;
+}
+.zigzag {
+  position: relative;
+  left: 150px;
+  top: -800px;
+}
+.text34 {
+  position: relative;
+  left: 142.5px;
+  top: -1300px;
+}
+
+.businesswomen {
+  position: relative;
+  left: 500px;
+  top: -800px;
+}
+.happygirl {
+  position: relative;
+  left: 50px;
+  top: -790px;
+}
+.text31 {
+  position: relative;
+  left: 300px;
+  top: -910px;
+}
+.text32 {
+  position: relative;
+  left: 40px;
+  top: -1120px;
+}
+.text33 {
+  position: relative;
+  left: 490px;
+  top: -970px;
+}
+@media only screen and (max-width: 786px) {
+  .loginbox {
+    background: #f5f5f5;
+    position: relative;
+    width: 90%;
+    height: 1450px;
+    display: flex;
+    flex-direction: column;
+  }
+  .loginbox2 {
+    width: 50%;
+    margin-top: 50px;
+  }
+  .greynode {
+    margin-left: 8px;
+    margin-top: 15px;
+  }
+}
+@media only screen and (max-width: 486px) {
+  .box9 {
+    gap: 250px;
+  }
+  .card20 {
+    margin-top: 60px;
+    display: flex;
+    flex-direction: column;
+  }
+  .button10 {
+    width: 300px;
+    height: 48px;
+
+    background: #00dab0;
+    border-radius: 100px;
+    border: none;
+    color: #ffffff;
+  }
+  .udtatir {
+    margin-left: 210px;
+    margin-top: -80px;
+  }
+  .boxs {
+    width: 430px;
+    height: 700px;
+  }
+  .box31 {
+    height: 120px;
+
+    background: #ffe2ad;
+    border-radius: 0px 106.5px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+  }
+  .box32 {
+    height: 120px;
+
+    background: #efefef;
+    border-radius: 0px 0px 104.5px 104.5px;
+  }
+
+  .box33 {
+    height: 180px;
+
+    background: #cbd3e7;
+    border-radius: 0px 104.5px;
+  }
+  .box35 {
+    height: 180px;
+    background: #cbd3e7;
+    border-radius: 239.4px;
+  }
+  .box36 {
+    height: 120px;
+    background: #80ebe1;
+    border-radius: 0px 0px 104.5px 104.5px;
+  }
+  .box37 {
+    height: 120px;
+    left: 920px;
+    top: 385px;
+
+    background: #fcd3ca;
+    border-radius: 0px 106.5px;
+  }
+  .box38 {
+    height: 180px;
+
+    background: #efefef;
+    border-radius: 0px 0px 104.5px 104.5px;
+    transform: matrix(0, 1, -1, 0, 0, 0);
+  }
+  .box39 {
+    height: 180px;
+
+    background: rgba(0, 216, 195, 0.5);
+    border-radius: 104.5px;
+  }
+  .box40 {
+    height: 180px;
+    background: #cef4ff;
+    border-radius: 0px 104.5px;
+    transform: matrix(-1, 0, 0, 1, 0, 0);
+  }
+  .handsome {
+    position: relative;
+    width: 100px;
+    height: 120px;
+    left: 180px;
+    top: -550px;
+  }
+  /* .text33 {
+    position: relative;
+    left: 50px;
+    top: -800px;
+  } */
+  .happygirl {
+    position: relative;
+    left: 30px;
+    top: -730px;
+    height: 130px;
+  }
+  .businesswomen {
+    position: relative;
+    left: 300px;
+    top: -730px;
+    height: 120px;
+  }
+  .oranagegirl {
+    position: relative;
+    width: 80px;
+    height: 100px;
+    left: 60px;
+    top: -800px;
+  }
+  .text30 {
+    position: relative;
+    left: 150px;
+    top: -880px;
+    height: 30px;
+  }
+  .zigzag {
+    position: relative;
+    left: 100px;
+    height: 80px;
+    top: -750px;
+  }
+  .text32 {
+    position: relative;
+    left: 40px;
+    height: 30px;
+    top: -970px;
+  }
+  .text33 {
+    position: relative;
+    height: 30px;
+    left: 330px;
+    top: -850px;
+  }
+  .text31 {
+    position: relative;
+    height: 30px;
+    left: 210px;
+    top: -820px;
+  }
+  .text34 {
+    position: relative;
+    height: 10px;
+    left: 94.5px;
+    top: -1110px;
+  }
+}

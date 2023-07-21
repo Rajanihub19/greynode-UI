@@ -1,0 +1,72 @@
+.text1 {
+  position: relative;
+  width: 529px;
+  height: 110px;
+  left: 103px;
+  top: -100.5px;
+}
+.banner2 {
+  color: #00dab0;
+}
+.button2 {
+  background-color: #00dab0;
+  border: none;
+  width: 140px;
+  height: 51px;
+  color: white;
+}
+.map {
+  /* margin-left: 31rem;
+  margin-bottom: 300px; */
+}
+.arrow {
+  position: absolute;
+  margin-left: 200px;
+  bottom: 70px;
+}
+.background {
+  background: linear-gradient(
+    262.02deg,
+    #f3fffd 0%,
+    #f4fffb 0.01%,
+    #f5fffa 98.29%
+  );
+}
+.photo1 {
+  position: relative;
+  margin-left: 250px;
+  top: -430px;
+}
+.photo2 {
+  position: relative;
+  margin-left: 150px;
+  top: -350px;
+}
+.photo3 {
+  position: relative;
+  margin-left: 550px;
+  top: -480px;
+}
+.photo4 {
+  position: relative;
+  margin-left: 160px;
+  top: -280px;
+}
+.photo5 {
+  position: relative;
+  margin-left: 350px;
+  top: -470px;
+}
+.photo6 {
+  position: relative;
+  margin-left: 550px;
+  top: -410px;
+}
+.img {
+  border-radius: 100%;
+}
+@media only screen and (max-width: 786px) {
+  .col2 {
+    display: none;
+  }
+}
